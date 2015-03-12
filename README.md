@@ -1,2 +1,2 @@
 # margherita
-Receita de Pizza de Margherita
+[Receita de Pizza de Margherita](http://lucasarruda.com/margherita)
